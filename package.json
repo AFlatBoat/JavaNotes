@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "deploy": "bash deploy.sh"
   },
   "repository": {
     "type": "git",
@@ -16,9 +19,5 @@
   "bugs": {
     "url": "https://github.com/AFlatBoat/AFlatBoat.github.io/issues"
   },
-  "homepage": "https://github.com/AFlatBoat/AFlatBoat.github.io#readme",
-  "scripts": {
-    "dev": "vuepress dev docs",
-    "build": "vuepress build docs"
-  }
+  "homepage": "https://github.com/AFlatBoat/AFlatBoat.github.io#readme"
 }

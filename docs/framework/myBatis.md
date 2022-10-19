@@ -1,4 +1,8 @@
-# MyBatis
+---
+title: MyBatis
+author: gzj
+date: '2022-10-19'
+---
 ## 与hibernate对比
 ## MyBatis框架整体设计
 ## 几个关键类

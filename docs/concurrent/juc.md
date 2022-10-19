@@ -1,4 +1,8 @@
-# Java并发包（J.U.C）
+---
+title: Java并发包（J.U.C）
+author: gzj
+date: '2022-10-19'
+---
 ## 并发工具类
 ### CyclicBarrier
 ### CountDownLatch

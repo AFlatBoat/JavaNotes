@@ -1,2 +1,1 @@
-# 简述
-开发框架图片
+![开发框架](../.vuepress/public/image/framework/framework.png)

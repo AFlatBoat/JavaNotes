@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/AFlatBoat/JavaNotes/issues"
   },
-  "homepage": "https://github.com/AFlatBoat/JavaNotes#readme"
+  "homepage": "https://github.com/AFlatBoat/JavaNotes#readme",
+  "devDependencies": {
+    "vuepress-theme-reco": "^1.6.16"
+  }
 }

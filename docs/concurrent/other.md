@@ -1,4 +1,8 @@
-# 其他
+---
+title: 其他
+author: gzj
+date: '2022-10-19'
+---
 ## ThreadLocal
 ## Fork/Join
 ### 核心思想

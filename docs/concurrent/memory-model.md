@@ -1,4 +1,8 @@
-# Java内存模型（JMM）
+---
+title: Java内存模型（JMM）
+author: gzj
+date: '2022-10-19'
+---
 ## 线程通信机制
 ## 内存模型
 ## synchronized

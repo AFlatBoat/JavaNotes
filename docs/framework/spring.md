@@ -1,4 +1,8 @@
-# Spring
+---
+title: Spring
+author: gzj
+date: '2022-10-19'
+---
 ## IOC
 ### IOC和DI的概念
 ### IOC原理

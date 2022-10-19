@@ -13,4 +13,4 @@
 ### 迪米特法则
 一个模块发生修改时，应该尽量少地影响其他模块
 
-设计模式图片
+![设计模式](../.vuepress/public/image/design-patterns/design-patterns.png)
